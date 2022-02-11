@@ -1,0 +1,53 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+}
+
+.img {
+    width: auto;
+    height: 60px;
+}  
+
+.lastResult {
+    color: white;
+    padding: 3px;
+}
+
+.texto {
+    text-align: center;
+    margin: auto;
+    width: auto;
+    padding: 10px;
+}
+
+.campoPalpite {
+    border-radius: 4px;
+    padding: 6px 10px;
+}
+
+.envioPalpite {
+    border-radius: 4px;
+    padding: 7px 20px;
+    border: none;
+    background-color: #008CBA;
+    color: white;
+}
+
+button {
+    border-radius: 4px;
+    padding: 7px 20px;
+    border: none;
+    background-color: #2ECC71;
+    color: white;
+}
