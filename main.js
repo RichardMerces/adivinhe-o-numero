@@ -12,6 +12,10 @@ let campoPalpite = document.querySelector('.campoPalpite');
 let contagemPalpites = 1;
 let botaoReinicio;
 
+// inicio com foco no campo de palpite 
+
+campoPalpite.focus();
+
 //Fução Para conferir palpites
 
 function conferirPalpite() {
